@@ -1,0 +1,106 @@
+1,Dynamite,방탄소년단(BTS),K-Pop,Dynamite,2020,199
+2,Next Level,aespa,K-Pop,Next Level,2021,221
+3,Hype Boy,NewJeans,K-Pop,NewJeans,2022,179
+4,Love Dive,IVE,K-Pop,LOVE DIVE,2022,177
+5,밤편지 (Through the Night),아이유(IU),K-Pop,Palette,2017,253
+6,TOMBOY,(여자)아이들,K-Pop,I NEVER DIE,2022,175
+7,봄날 (Spring Day),방탄소년단(BTS),K-Pop,YOU NEVER WALK ALONE,2017,274
+8,As If It's Your Last,BLACKPINK,K-Pop,As If It's Your Last,2017,213
+9,I AM,IVE,K-Pop,I've IVE,2023,183
+10,Attention,NewJeans,K-Pop,NewJeans,2022,181
+11,Ditto,NewJeans,K-Pop,OMG,2022,185
+12,Blueming,아이유(IU),K-Pop,Love poem,2019,217
+13,Bohemian Rhapsody,Queen,Rock,A Night at the Opera,1975,355
+14,Butter,방탄소년단(BTS),K-Pop,Butter,2021,164
+15,사건의 지평선,윤하,K-Pop,END THEORY : Final Edition,2022,302
+16,Shape of You,Ed Sheeran,Pop,÷ (Divide),2017,233
+17,Smells Like Teen Spirit,Nirvana,Rock,Nevermind,1991,301
+18,Billie Jean,Michael Jackson,Pop,Thriller,1982,294
+19,Rolling in the Deep,Adele,Pop,21,2010,228
+20,Uptown Funk,Mark Ronson (feat. Bruno Mars),Funk,Uptown Special,2014,270
+21,Hotel California,Eagles,Rock,Hotel California,1976,391
+22,Hey Jude,The Beatles,Rock,The Beatles (White Album),1968,431
+23,Like a Rolling Stone,Bob Dylan,Rock,Highway
+61 Revisited,1965,373
+24,Stairway to Heaven,Led Zeppelin,Rock,Led Zeppelin IV,1971,482
+25,I Will Always Love You,Whitney Houston,R&B/Soul,The Bodyguard,1992,271
+26,Wonderwall,Oasis,Rock, (What's the Story) Morning Glory?,1995,258
+27,Someone Like You,Adele,Pop,21,2011,285
+28,Despacito,Luis Fonsi (feat. Daddy Yankee),Latin Pop,Vida,2017,229
+29,Gangnam Style (강남스타일),PSY (싸이),K-Pop,PSY
+6 (Six Rules), Part
+1,2012,219
+30,Bad Guy,Billie Eilish,Pop,WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?,2019,194
+31,Thinking Out Loud,Ed Sheeran,Pop,x,2014,281
+32,See You Again,Wiz Khalifa (feat. Charlie Puth),Hip-Hop/Rap,Furious
+7 Soundtrack,2015,229
+33,Closer,The Chainsmokers (feat. Halsey),Pop,Collage,2016,244
+34,God's Plan,Drake,Hip-Hop/Rap,Scorpion,2018,198
+35,Lose Yourself,Eminem,Hip-Hop/Rap,8 Mile Soundtrack,2002,320
+36,Crazy in Love,Beyoncé (feat. Jay-Z),R&B/Soul,Dangerously in Love,2003,236
+37,Havana,Camila Cabello (feat. Young Thug),Pop,Camila,2018,217
+38,CHEER UP,TWICE,K-Pop,PAGE TWO,2016,208
+39,뚜두뚜두 (DDU-DU DDU-DU),BLACKPINK,K-Pop,SQUARE UP,2018,209
+40,빨간 맛 (Red Flavor),Red Velvet,K-Pop,The Red Summer,2017,191
+41,DNA,방탄소년단(BTS),K-Pop,LOVE YOURSELF 承 'Her',2017,223
+42,Gee,소녀시대 (Girls' Generation),K-Pop,Gee,2009,202
+43,으르렁 (Growl),EXO,K-Pop,XOXO (KISS&HUG),2013,208
+44,FANTASTIC BABY,BIGBANG,K-Pop,ALIVE,2012,231
+45,좋은 날 (Good Day),아이유(IU),K-Pop,Real,2010,233
+46,TT,TWICE,K-Pop,TWICEcoaster : LANE
+1,2016,213
+47,불타오르네 (FIRE),방탄소년단(BTS),K-Pop,The Most Beautiful Moment in Life: Young Forever,2016,192
+48,Lovesick Girls,BLACKPINK,K-Pop,THE ALBUM,2020,192
+49,Feel Special,TWICE,K-Pop,Feel Special,2019,206
+50,IDOL,방탄소년단(BTS),K-Pop,LOVE YOURSELF 結 'Answer',2018,222
+51,Don't Stop Me Now,Queen,Rock,Jazz,1978,209
+52,Take on Me,a-ha,Pop,Hunting High and Low,1985,225
+53,Every Breath You Take,The Police,Rock,Synchronicity,1983,253
+54,Sweet Child O' Mine,Guns N' Roses,Rock,Appetite for Destruction,1987,356
+55,Livin' on a Prayer,Bon Jovi,Rock,Slippery When Wet,1986,249
+56,With or Without You,U2,Rock,The Joshua Tree,1987,296
+57,Yesterday,The Beatles,Rock,Help!,1965,125
+58,Let It Be,The Beatles,Rock,Let It Be,1970,243
+59,Imagine,John Lennon,Pop,Imagine,1971,183
+60,What's Going On,Marvin Gaye,R&B/Soul,What's Going On,1971,232
+61,Superstition,Stevie Wonder,R&B/Soul,Talking Book,1972,266
+62,I Want to Hold Your Hand,The Beatles,Rock,Meet the Beatles!,1963,145
+63,Respect,Aretha Franklin,R&B/Soul,I Never Loved a Man the Way I Love You,1967,157
+64,Good Vibrations,The Beach Boys,Rock,Smiley Smile,1966,219
+65,Johnny B. Goode,Chuck Berry,Rock and Roll,Chuck Berry Is on Top,1958,161
+66,My Generation,The Who,Rock,My Generation,1965,198
+67,(I Can't Get No) Satisfaction,The Rolling Stones,Rock,Out of Our Heads,1965,222
+68,Like a Virgin,Madonna,Pop,Like a Virgin,1984,198
+69,Born to Run,Bruce Springsteen,Rock,Born to Run,1975,270
+70,Stayin' Alive,Bee Gees,Disco,Saturday Night Fever,1977,284
+71,Dancing Queen,ABBA,Pop,Arrival,1976,231
+72,Blinding Lights,The Weeknd,Pop,After Hours,2019,200
+73,Watermelon Sugar,Harry Styles,Pop,Fine Line,2019,174
+74,Old Town Road,Lil Nas X (feat. Billy Ray Cyrus),Country Rap,7,2019,157
+75,Shallow,Lady Gaga & Bradley Cooper,Pop,A Star Is Born Soundtrack,2018,215
+76,Thank U, Next,Ariana Grande,Pop,Thank U, Next,2018,207
+77,Perfect,Ed Sheeran,Pop,÷ (Divide),2017,263
+78,Rockstar,Post Malone (feat.
+21 Savage),Hip-Hop/Rap,Beerbongs & Bentleys,2017,218
+79,Shape of My Heart,Sting,Pop,Ten Summoner's Tales,1993,279
+80,Creep,Radiohead,Alternative Rock,Pablo Honey,1992,238
+81,Enter Sandman,Metallica,Heavy Metal,Metallica (The Black Album),1991,331
+82,Can't Help Falling in Love,Elvis Presley,Pop,Blue Hawaii,1961,181
+83,Stand by Me,Ben E. King,R&B/Soul,Don't Play That Song!,1961,178
+84,I Heard It Through the Grapevine,Marvin Gaye,R&B/Soul,In the Groove,1968,194
+85,Purple Haze,The Jimi Hendrix Experience,Rock,Are You Experienced,1967,172
+86,A Day in the Life,The Beatles,Rock,Sgt. Pepper's Lonely Hearts Club Band,1967,337
+87,Mr. Tambourine Man,The Byrds,Folk Rock,Mr. Tambourine Man,1965,149
+88,California Dreamin',The Mamas & The Papas,Folk Rock,If You Can Believe Your Eyes and Ears,1965,159
+89,All Along the Watchtower,The Jimi Hendrix Experience,Rock,Electric Ladyland,1968,240
+90,Gimme Shelter,The Rolling Stones,Rock,Let It Bleed,1969,271
+91,Light My Fire,The Doors,Rock,The Doors,1967,426
+92,No Woman, No Cry,Bob Marley & The Wailers,Reggae,Natty Dread,1974,226
+93,American Pie,Don McLean,Folk Rock,American Pie,1971,515
+94,Bridge Over Troubled Water,Simon & Garfunkel,Folk,Bridge over Troubled Water,1970,293
+95,Super Bass,Nicki Minaj,Hip-Hop/Rap,Pink Friday,2010,200
+96,Call Me Maybe,Carly Rae Jepsen,Pop,Kiss,2012,193
+97,We Are Young,fun. (feat. Janelle Monáe),Pop,Some Nights,2012,250
+98,Party Rock Anthem,LMFAO (feat. Lauren Bennett & GoonRock),Dance-Pop,Sorry for Party Rocking,2011,262
+99,Rolling Papers,Limp Bizkit,Nu Metal,Gold Cobra,2011,234
+100,Moves Like Jagger,Maroon5 (feat. Christina Aguilera),Pop,Hands All Over,2011,201
